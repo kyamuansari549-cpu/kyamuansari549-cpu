@@ -18,7 +18,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [DrishtiNav](https://github.com/kyamuansari549-cpu/DrishtiNav) | AR navigation aid for the visually impaired — on-device obstacle detection, turn-by-turn navigation, bilingual (EN/HI) voice guidance. Field-tested on real hardware. | Kotlin, ARCore, MediaPipe |
-| [SeatBook](https://booking-platform-phi-three.vercel.app) | Full-stack event booking platform — live in production. Atomic seat holds, Razorpay payments, organizer dashboard. | Next.js, Postgres, Razorpay |
+| [AI Code Review Bot](https://github.com/kyamuansari549-cpu/ai-code-review-bot) | GenAI code-review & bug-fixing tool — paste code or screenshots, get fixes and explanations. | Python, FastAPI, React |
 | [Agentic Research Assistant](https://github.com/kyamuansari549-cpu/Agentic-Research-Assistant) | Multi-agent research pipeline — researcher, writer & critic agents producing cited reports from real papers (arXiv, Semantic Scholar, OpenAlex). | Python, LangGraph, React, Groq/Gemini |
 | [DocQA RAG](https://github.com/kyamuansari549-cpu/docqa-rag) | Document Q&A with retrieval-augmented generation — upload PDFs, chat with cited answers. | FastAPI, Gemini, Groq |
 
