@@ -1,6 +1,6 @@
 # Kiyamuddin Ansari
 
-Final-year B.Tech (AI & ML) student at SMS Lucknow. I build full-stack web applications.
+Final-year B.Tech (AI & ML) student at SMS Lucknow. I build web applications.
 
 ## Projects
 
