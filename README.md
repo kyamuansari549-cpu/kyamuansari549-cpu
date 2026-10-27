@@ -11,6 +11,7 @@ Final-year B.Tech (AI & ML) student at SMS Lucknow. I build full-stack web appli
 - **Sandbox Agent** — Local AI agent with tool calling, a Docker sandbox and a web dashboard (Python, Ollama). [Repository](https://github.com/kyamuansari549-cpu/sandbox-agent)
 - **Text Summarizer** — Abstractive text summarizer (BART/T5) with a FastAPI backend, React frontend and OCR photo upload. [Repository](https://github.com/kyamuansari549-cpu/ml-text-summarizer-v2)
 - **Token Bucket Rate Limiter** — Rate limiter service with per-client token buckets and 429 / Retry-After responses (FastAPI). [Repository](https://github.com/kyamuansari549-cpu/token-bucket-rate-limiter)
+- **Reliable Job Queue** — Job queue with retries, exponential backoff and a dead-letter queue (FastAPI, SQLite). [Repository](https://github.com/kyamuansari549-cpu/reliable-job-queue)
 - **Jarvis Call** — A small tool that calls your phone through Twilio and speaks an alert message (Python). [Repository](https://github.com/kyamuansari549-cpu/jarvis-call)
 
 ## Currently
